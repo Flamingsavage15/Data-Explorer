@@ -1,7 +1,4 @@
-movies = ['Gladiator', 'Finding Dory', 'Deadpool and Wolverine']
-ratings = [8.5, 7, 8.0]
-genres = ['action', 'family', 'action']
-
+print(' ')
 for movie in movies: 
     print(movie)
 
